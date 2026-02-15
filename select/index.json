@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ガーデン",
+  "base_artist": "藤井 風",
+  "createdAt": "2026-02-15T07:55:43.601166Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウェルカム・トゥ・ザ・ガーデン・ステイト",
+      "artist": "Overkill",
+      "has_synced": false,
+      "path": "select/01_ウェルカム・トゥ・ザ・ガーデン・ステイト_Overkill.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガーデン",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/02_ガーデン_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガーデン オブ MY ハート",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/03_ガーデン_オブ_MY_ハート_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ガーデン - Garden",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/04_ガーデン_-_Garden_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウィンター・ガーデン [Winter Garden]",
+      "artist": "松田聖子 (Seiko Matsuda)",
+      "has_synced": true,
+      "path": "select/05_ウィンター・ガーデン_[Winter_Garden]_松田聖子_(Seiko_Matsuda).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ガーデン",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/06_ガーデン_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ガーデン オブ MY ハート",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": true,
+      "path": "select/07_ガーデン_オブ_MY_ハート_HIGH_and_MIGHTY_COLOR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ガーデン",
+      "artist": "Fujii Kaze 藤井風",
+      "has_synced": true,
+      "path": "select/08_ガーデン_Fujii_Kaze_藤井風.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サリー・ガーデン〜風と少女〜",
+      "artist": "安倍なつみ",
+      "has_synced": false,
+      "path": "select/09_サリー・ガーデン〜風と少女〜_安倍なつみ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サリー・ガーデン～風と少女～ (24bit/96kHz)",
+      "artist": "安倍なつみ",
+      "has_synced": false,
+      "path": "select/10_サリー・ガーデン~風と少女~_(24bit_96kHz)_安倍なつみ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ウィンター・ガーデン",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/11_ウィンター・ガーデン_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ガーデン",
+      "artist": "The Back Horn",
+      "has_synced": true,
+      "path": "select/12_ガーデン_The_Back_Horn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ウィンター・ガーデン",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/13_ウィンター・ガーデン_松田聖子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガーデン",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_ガーデン_藤井_風.txt"
+    }
+  ]
+}
